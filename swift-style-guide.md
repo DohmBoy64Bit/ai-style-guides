@@ -1,4 +1,4 @@
-# Swift Coding Style Guide
+# Swift Style Guide
 
 Write Swift as an experienced professional Swift developer maintaining a real production codebase.
 

@@ -17,6 +17,7 @@ Each guide in this repo is a curated set of rules that pushes back against those
 | [Rust](rust-style-guide.md) | 4,985 | Idiomatic ownership and borrowing, `Result`-based errors, simple over clever |
 | [Go](go-style-guide.md) | 5,541 | Small consumer-defined interfaces, explicit errors, stdlib first, zero values |
 | [Dart](dart-style-guide.md) | 5,932 | Strong static typing, correct null safety, immutable data, small functions |
+| [Swift](swift-style-guide.md) | 4,596 | Value types first, protocol restraint, idiomatic Swift over Obj-C translation |
 | [TypeScript](typescript-style-guide.md) | 2,823 | `type` vs `interface`, `unknown` over `any`, no type gymnastics, strict-mode discipline |
 | [Python](python-style-guide.md) | 4,292 | Functions-first, no Java-style architecture, stdlib over frameworks, idiomatic typing |
 | [Ruby](ruby-style-guide.md) | 5,793 | Simple objects, duck typing, guard clauses, idiomatic Ruby |
