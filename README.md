@@ -16,6 +16,7 @@ Each guide in this repo is a curated set of rules that pushes back against those
 | [TypeScript](typescript-style-guide.md) | 2,823 | `type` vs `interface`, `unknown` over `any`, no type gymnastics, strict-mode discipline |
 | [Python](python-style-guide.md) | 4,292 | Functions-first, no Java-style architecture, stdlib over frameworks, idiomatic typing |
 | [JavaScript](javascript-style-guide.md) | 3,724 | Plain objects over classes, no DI containers, boundary-only runtime validation |
+| [HTML](html-style-guide.md) | 3,686 | Semantic elements over div soup, accessibility-first ARIA, native browser behavior, minimal valid markup |
 
 ## Quick start
 
