@@ -13,9 +13,11 @@ Each guide in this repo is a curated set of rules that pushes back against those
 | Guide | Lines | Focus |
 |---|---|---|
 | [C#](csharp-style-guide.md) | 600 | Modern C#, records, LINQ restraint, nullable-reference-type-aware null handling |
+| [C++](cpp-style-guide.md) | 5,943 | RAII over manual resource management, value semantics, modern C++ |
 | [Rust](rust-style-guide.md) | 4,985 | Idiomatic ownership and borrowing, `Result`-based errors, simple over clever |
 | [TypeScript](typescript-style-guide.md) | 2,823 | `type` vs `interface`, `unknown` over `any`, no type gymnastics, strict-mode discipline |
 | [Python](python-style-guide.md) | 4,292 | Functions-first, no Java-style architecture, stdlib over frameworks, idiomatic typing |
+| [Ruby](ruby-style-guide.md) | 5,793 | Simple objects, duck typing, guard clauses, idiomatic Ruby |
 | [JavaScript](javascript-style-guide.md) | 3,724 | Plain objects over classes, no DI containers, boundary-only runtime validation |
 | [HTML](html-style-guide.md) | 3,686 | Semantic elements, accessibility-first ARIA, native browser behavior |
 | [CSS](css-style-guide.md) | 4,388 | Simple selectors, low specificity, design tokens, Flexbox/Grid, predictable cascade |
